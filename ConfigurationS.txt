@@ -1,0 +1,9 @@
+6000
+localhost
+3000
+localhost
+239.1.1.1
+2000
+dictionary.txt
+registro.json
+ScoreList.dat
