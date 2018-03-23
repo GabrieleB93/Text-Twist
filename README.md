@@ -11,7 +11,8 @@ For more details there is a <a href="Relazione.pdf">PDF</a> that explains everyt
 <h2>How to Use</h2>
 <img align="left" src="images/logTextTwist.png" width="500"> 
 Double click on the files jar or from terminal with the command :
-<p>java -jar TwistClient.jar/ TwistServer.jar. (Java 8 is required).
+<p>java -jar TwistClient.jar/ TwistServer.jar. 
+  <p>(Java 8 is required).
 
 <img align="left" src="images/textTwist.png" width="500"> 
 <br /><br /><br /><br /><br /><br /> <br/><br/>Log panel will be the Friend Panel and a new panel will be added.To choose a friend just select him from the list, and after choosing all the friends, you can send the invitation to the game. In the second panel you can see the InviteList.
