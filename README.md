@@ -3,7 +3,7 @@ Project for the Networking Course in Bachelor Degree at University of Pisa
 
 <h1> Description </h1>
 Multiplayer online text-game with GUI. Made with Java and Swing.
-For more details there is a<a href="Relazione.pdf">PDF</a>that explains everything in detail (Italian).
+For more details there is a <a href="Relazione.pdf">PDF</a> that explains everything in detail (Italian).
 
 <h2>Logical scheme</h2>
 <img src="images/schemaTextTwist.png" width="500">
